@@ -1,2 +1,6 @@
 *.pyc
 *.egg-info
+build/
+dist/
+imposm/parser/pbf/osm.pb.cc
+imposm/parser/pbf/osm.pb.h
